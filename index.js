@@ -4,7 +4,6 @@ function parent() {
 }
 
 function child() {
-    //parent.call(this);
     return this;
 }
 
